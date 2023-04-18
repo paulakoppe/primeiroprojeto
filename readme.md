@@ -1,31 +1,15 @@
-<h1 align="center"> Primeirissímo </h1>
+<h1 align="center"> Visit card 👥 </h1>
 
-<p align="center">
-Esse foi o primeiro projeto que fiz.  
-Produzido graças à RocketSeat 🚀
-</p>
+💻 Project
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
-</p>
-<br>
+This project was developed with the following technologies:
 
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML e CSS
 - JavaScript
-- Git e Github
-- Figma
+- HTML and CSS
+- Git and Github
 
-## 💻 Projeto
-
-É um agregador de links para usar como cartão de visitas online.
-
-- [Acesse o projeto finalizado, online](https://paulakoppe.github.io/primeiroprojeto/)
+- [Access the finished project online](https://paulakoppe.github.io/primeiroprojeto/)
 
 ---
+Made with ♥ by paula koppe
 
-Feito com ♥ por paula koppe
